@@ -1,0 +1,4 @@
+New DVD entry:
+Title: The Hobbit
+Year: 2012
+Price: 55.0

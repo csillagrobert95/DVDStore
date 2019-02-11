@@ -1,0 +1,4 @@
+New DVD entry:
+Title: Lord of the Rings
+Year: 2001
+Price: 50.0

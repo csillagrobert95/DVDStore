@@ -1,0 +1,4 @@
+New DVD entry:
+Title: Hobbit
+Year: 2013
+Price: 79.0
