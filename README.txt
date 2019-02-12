@@ -1,4 +1,4 @@
-FlightsApp - Csillag Robert
+DVDStoreApp - Csillag Robert
 
 A small demo web app built using Java Spring an RabbitMQ.
 
